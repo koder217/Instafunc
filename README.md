@@ -18,5 +18,5 @@ Adherence to best practices - Fool proofing best practice adherence - Developers
 Product workings awareness to external stakeholders - Non-technical stakeholders should be able to view developement in progress and understand immediately what is happening without learning how to code.
 Streamlined development and deployment - Seamless development to deployment and debugging.
 
-What is Instafunc
+# What is Instafunc
 Instafunc is an opinionated software development platform which allows application development in a creative and highly visual editor. Best practices like TDD, SOLID will be baked into the editing environment in a way where developers simply cannot develop without using these best practices. Due to the visual nature of the editor, a non-technical user can view the application taking shape during development itself.
